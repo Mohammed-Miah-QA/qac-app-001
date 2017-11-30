@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QAC_app</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="signiture">Signiture</string>
+    <string name="passport_expiry_date">Passport Expiry Date (dd/mm/yyyy)</string>
+    <string name="geographical_flexibility">Are you geographically flexible to work throughout the UK?</string>
+    <string name="ccj_status">Do you have any CCJ against you?</string>
+    <string name="save_info">Save Info</string>
+    <string name="send_info">Send Info to QAC</string>
+    <string name="saved_data">saved_data</string>
+    <string name="name">Please enter your full name</string>
+    <string name="passport_country_of_issue">Passport country of issue</string>
+    <string name="rights_of_work_in_uk">Retained rights of work in the UK</string>
+    <string name="available_start_date">From which date are you available to start?</string>
+</resources>
